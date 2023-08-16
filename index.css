@@ -1,0 +1,21 @@
+.zoj {
+    background-color: darkcyan;
+}
+.fard {
+    background-color: darkgoldenrod;
+}
+main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+main > div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div > span {
+    width: 50%;
+}
